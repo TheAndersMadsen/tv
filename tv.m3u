@@ -11,10 +11,6 @@ https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="KanalHovedstaden.dk",Kanal Hovedstaden
 http://khkbh.dk:8080/hls/livestream/index.m3u8
-#EXTINF:-1 tvg-id="KKRtv.dk",KKR TV
-http://stream.kkr.dk/live/kkr/playlist.m3u8
-#EXTINF:-1 tvg-id="KKRtv.dk",KKR TV
-http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="TV2Bornholm.dk",TV 2 Bornholm
 https://cdn-akamai-live.tv2bornholm.dk/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TV2Ostjylland.dk",TV 2 Østjylland
@@ -31,5 +27,3 @@ https://cdn.jwplayer.com/live/broadcast/Crk4qpBM.m3u8
 https://cdn.jwplayer.com/live/broadcast/9KPTcBkU.m3u8
 #EXTINF:-1 tvg-id="TVSYD.dk",TV SYD
 https://cdn.jwplayer.com/live/broadcast/bcZFHqNK.m3u8
-#EXTINF:-1 tvg-id="TVMarineret.dk",TV Marineret
-http://sdream.info:8080/hls/livestream/index.m3u8
